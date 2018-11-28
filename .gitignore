@@ -62,6 +62,7 @@ docs/_build/
 
 # Jetbrain's Softwares
 .idea/
+*.iml
 
 # Jupyter Files
 .ipynb_checkpoints/
